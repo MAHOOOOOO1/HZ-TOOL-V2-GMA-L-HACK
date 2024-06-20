@@ -21,7 +21,7 @@ GMAIL_PORT = '587'
 def artwork():
     print("\n")
     print('''\033[32m
-      ꓚ⌊⌋ 𝙷𝚉 𝙶𝙼𝙰İ𝙻 𝙷𝙰𝙲𝙺 𝚃𝙾𝙾𝙻 𝚅𝟷 ⌊⌋ꓛ  v2.1         
+      HZ GMAİL HACK TOOL  v2.1         
 ⚠️WARNING:I AM NOT RESPONSIBLE FOR THE MISUSE OF THIS TOOL !
 *******************************************************
 * YouTub   : ERS
